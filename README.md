@@ -10,4 +10,4 @@
 
 ### In this code, you will see some curious concepts about the famous Titanic Dataset. There are different bar charts and histograms that helps us to understand the situation that this dataset represents.  
 
-![COVID](http://col2.com/wp-content/uploads/titanicsobrevivir1e.jpg)
+![COVID](https://pbs.twimg.com/media/EgNGdqlX0AA2ciR?format=jpg&name=900x900)
