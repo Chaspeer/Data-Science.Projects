@@ -4,4 +4,4 @@
 
 ### Here you will find some interesting vizualizations about the COVID-19 situation in Argentina. I have used information from February 2020 to September 2020 and analyzed different paramenters providede the the Ministry of Heath. 
 
-!(https://www.ambb.org.ar/images/Fotos/400x265/RDCovid19Argentina.png)
+![COVID](https://www.ambb.org.ar/images/Fotos/400x265/RDCovid19Argentina.png)
