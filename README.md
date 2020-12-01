@@ -1,4 +1,4 @@
-### Hey, thanks for coming! Below you will be albe to take a look at the different projects that I have been working on the last time. There is a mix of Machine Learning and vizualization projects, using R and Python. Enjoy! 
+### Hey, thanks for coming! Below you will be albe to take a look at the different projects that I have been working on the last time. There is a mix of Machine Learning and visualization projects, using R and Python. Enjoy! 
 
 # [Argentina COVID-19 Analysis - R Programming](https://github.com/Chaspeer/Data-Science.Projects/blob/main/COVID.ipynb)
 
