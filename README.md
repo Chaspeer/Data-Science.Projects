@@ -5,3 +5,9 @@
 ### Here you will find some interesting vizualizations about the COVID-19 situation in Argentina. I have used information from February 2020 to September 2020 and analyzed different paramenters providede the the Ministry of Heath. 
 
 ![COVID](https://www.ambb.org.ar/images/Fotos/400x265/RDCovid19Argentina.png)
+
+# [Titanic Visualization - Final Pandas Project](https://github.com/Chaspeer/Data-Science.Projects/blob/main/zerotopandas_course_project.ipynb)
+
+### In this code, you will see some curious concepts about the famous Titanic Dataset. There are different bar charts and histograms that helps us to understand the situation that this dataset represents.  
+
+![COVID](http://col2.com/wp-content/uploads/titanicsobrevivir1e.jpg)
