@@ -1,3 +1,5 @@
-# Data Science Projects
+### Hey, thanks for coming! Below you will be albe to take a look at the different projects that I have been working on the last time. There is a mix of Machine Learning and vizualization projects, using R and Python. Enjoy! 
 
 ## [Argentina COVID-19 Analysis - R Programming](https://github.com/Chaspeer/Data-Science.Projects/blob/main/COVID.ipynb)
+
+### Here you will find some interesting vizualizations about the COVID-19 situation in Argentina. I have used information from February 2020 to September 2020 and analyzed different paramenters providede the the Ministry of Heath. 
