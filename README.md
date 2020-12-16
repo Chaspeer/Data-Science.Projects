@@ -2,7 +2,7 @@
 
 # [Argentina COVID-19 Analysis - R Programming](https://github.com/Chaspeer/Data-Science.Projects/blob/main/COVID.ipynb)
 
-### Here you will find some interesting vizualizations about the COVID-19 situation in Argentina. I have used information from February 2020 to September 2020 and analyzed different paramenters providede the the Ministry of Heath. 
+### Here you will find some interesting vizualizations about the COVID-19 situation in Argentina. I have used information from February 2020 to September 2020 and analyzed different paramenters providede the the Ministry of Heath. (In progress)
 
 ![COVID](https://www.ambb.org.ar/images/Fotos/400x265/RDCovid19Argentina.png)
 
