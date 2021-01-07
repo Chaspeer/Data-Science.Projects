@@ -2,7 +2,7 @@
 
 Hey, thanks for coming! Below you will be albe to take a look at the different projects that I have been working on during the last time. There is a mix of Machine Learning and visualization projects, using R and Python. Enjoy! 
 
-## [Argentina COVID-19 Analysis - R Programming](https://github.com/Chaspeer/Data-Science.Projects/blob/main/COVID.ipynb)
+## [Argentina COVID-19 Analysis - R Programming](https://github.com/Chaspeer/Covid-19-LogisticRegression-RProgramming)
 
 Here you will find some interesting vizualizations about the COVID-19 situation in Argentina. I have used information from February 2020 to September 2020 and analyzed different paramenters providede the the Ministry of Heath. Also, I have a applied a logarithmic regression model to predict if people will recover from COVID or not. (In progress)
 
