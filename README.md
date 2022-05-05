@@ -18,7 +18,7 @@ In this code, you will see some curious concepts about the famous Titanic Datase
 
 ![COVID](https://pbs.twimg.com/media/EgNGdqlX0AA2ciR?format=jpg&name=900x900)
 
-## [Automation GUI](https://github.com/Chaspeer/Data-Science.Projects/blob/main/GUI + KeySimulator.R)
+## [Automation GUI](https://github.com/Chaspeer/Data-Science.Projects/blob/main/GUI_KeySimulator.R)
 
 ### R Programming
 
@@ -26,7 +26,7 @@ This is a GUI application, that I have combined with the KeyboardSimulator libra
 
 ![Automate](https://i0.wp.com/www.globaltrademag.com/wp-content/uploads/2018/12/software.jpg?w=970&ssl=1)
 
-## [Pivot in R](https://github.com/Chaspeer/Data-Science.Projects/blob/main/Analysis + Pivot.R)
+## [Pivot in R](https://github.com/Chaspeer/Data-Science.Projects/blob/main/Analysis_Pivot.R)
 
 ### R Programming
 
@@ -34,7 +34,7 @@ In this script, you will find some analysis performed into a dataset, including 
 
 ![Pivot](https://www.xelplus.com/wp-content/uploads/2020/10/blogicon_multipletables_flat_168bce-400x225.jpg)
 
-## [Data Preparation & Analysis](https://github.com/Chaspeer/Data-Science.Projects/blob/main/Import - Analysis - Export.R)
+## [Data Preparation & Analysis](https://github.com/Chaspeer/Data-Science.Projects/blob/main/Import_Analysis_Export.R)
 
 ### R Programming
 
