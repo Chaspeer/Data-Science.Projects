@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Hey, thanks for coming! Below you will be albe to take a look at the different projects that I have been working on during the last time. There is a mix of Machine Learning and visualization projects, using R and Python. Enjoy! 
+Hey, thanks for coming! Below you will be able to take a look at the different projects that I have been working on during the last time. There are a mix of Machine Learning and visualization projects, using R and Python. Enjoy! 
 
 ## [Argentina COVID-19 Analysis](https://github.com/Chaspeer/Covid-19-LogisticRegression-RProgramming)
 
