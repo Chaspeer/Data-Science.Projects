@@ -6,7 +6,7 @@ Hey, thanks for coming! Below you will be albe to take a look at the different p
 
 ### R Programming
 
-Here you will find some interesting vizualizations about the COVID-19 situation in Argentina. I have used information from February 2020 to September 2020 and analyzed different paramenters providede the the Ministry of Heath. Also, I have a applied a logarithmic regression model to predict if people will recover from COVID or not. (In progress)
+Here you will find some interesting vizualizations about the COVID-19 situation in Argentina. I have used information from February 2020 to September 2020 and analyzed different parameters provided by the Ministry of Heath. Also, I have a applied a logarithmic regression model to predict people Covid-19 recovery.
 
 ![COVID](https://www.ambb.org.ar/images/Fotos/400x265/RDCovid19Argentina.png)
 
@@ -18,7 +18,7 @@ In this code, you will see some curious concepts about the famous Titanic Datase
 
 ![COVID](https://pbs.twimg.com/media/EgNGdqlX0AA2ciR?format=jpg&name=900x900)
 
-## [Automation GUI](https://github.com/Chaspeer/Data-Science.Projects/blob/main/Import - Analysis - Export.R)
+## [Automation GUI](https://github.com/Chaspeer/Data-Science.Projects/blob/main/GUI + KeySimulator.R)
 
 ### R Programming
 
@@ -26,7 +26,25 @@ This is a GUI application, that I have combined with the KeyboardSimulator libra
 
 ![Automate](https://i0.wp.com/www.globaltrademag.com/wp-content/uploads/2018/12/software.jpg?w=970&ssl=1)
 
-## [Merval Anlysis Tool](https://github.com/Chaspeer/Merval_Analysis_Tool)
+## [Pivot in R](https://github.com/Chaspeer/Data-Science.Projects/blob/main/Analysis + Pivot.R)
+
+### R Programming
+
+In this script, you will find some analysis performed into a dataset, including importing the data, deleting and formatting variables, appending tables, and grouping and generating new variables. After that, I have generated a pivot table for reporting purposes. 
+
+![Pivot](https://www.xelplus.com/wp-content/uploads/2020/10/blogicon_multipletables_flat_168bce-400x225.jpg)
+
+## [Data Preparation & Analysis](https://github.com/Chaspeer/Data-Science.Projects/blob/main/Import - Analysis - Export.R)
+
+### R Programming
+
+The challenge for this job was that I had to prepare different Excel files, from a source data that had more rows than the max limit of Excel. Because of that, I generated a script that allowed me to import the data, format it as expected and export it with an Excel format. 
+
+![Export](https://feedzai.com/aptopees/2021/05/20210512_Header_How-FIs-Should-Prep-Data-Before-Implementing-ML_Feedzai.jpg)
+
+## [Merval Anlysis Tool - Out of service](https://github.com/Chaspeer/Merval_Analysis_Tool)
+
+### Python
 
 This is a web app that allows us to analyze different aspects of the Merval Stock Market.
 
